@@ -1,0 +1,10 @@
+[package]
+name = "petri"
+version = "0.1.0"
+entrypoint = "src/lib.typ"
+authors = ["Auguste Baum <https://github.com/augustebaum>"]
+license = "MIT"
+description = "Typst-setting Petri nets with CeTZ and fletcher."
+repository = "https://github.com/augustebaum/petri.git"
+exclude = ["manual.typ", "manual.pdf"]
+compiler = "0.11.0"
