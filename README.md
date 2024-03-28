@@ -11,5 +11,5 @@ Find the full list of examples in the [tests](/tests/README.md) directory. Yes, 
 
 ## TODO
 - [ ] Refactor places and transitions to custom CeTZ shapes, which can then be used to define custom fletcher shapes
-- [ ] Example gallery (render the tests)
-- [ ] Pick a few comprehensive examples for the top-level README
+- [x] Example gallery (render the tests)
+- [ ] Show 4 comprehensive examples in the top-level README
