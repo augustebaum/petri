@@ -14,6 +14,7 @@ The following examples are obtained by rendering the individual tests.
 ![](connect-places-with-transitions/ref/1.png)
 ![](four-seasons/ref/1.png)
 ![](label-placement/ref/1.png)
+![](large-example/ref/1.png)
 ![](relative-positioning/ref/1.png)
 ![](transitions/ref/1.png)
 ![](two-concurrent-processes/ref/1.png)

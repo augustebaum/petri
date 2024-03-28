@@ -5,6 +5,7 @@ Petri nets in Typst.
 ## Examples
 
 ![](/tests/four-seasons/ref/1.png)
+![](/tests/large-example/ref/1.png)
 ![](/tests/relative-positioning/ref/1.png)
 ![](/tests/two-concurrent-processes/ref/1.png)
 
