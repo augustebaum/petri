@@ -6,6 +6,7 @@ Petri nets in Typst.
 
 ![](/tests/four-seasons/ref/1.png)
 ![](/tests/relative-positioning/ref/1.png)
+![](/tests/two-concurrent-processes/ref/1.png)
 
 Find the full list of examples in the [tests](/tests/README.md) directory. Yes, the examples are just rendered tests!
 

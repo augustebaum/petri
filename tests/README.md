@@ -16,5 +16,6 @@ The following examples are obtained by rendering the individual tests.
 ![](label-placement/ref/1.png)
 ![](relative-positioning/ref/1.png)
 ![](transitions/ref/1.png)
+![](two-concurrent-processes/ref/1.png)
 ![](two-tokens/ref/1.png)
 
