@@ -8,4 +8,12 @@ Many of the tests are inspired by prior work in TikZ, including:
 
 ## Example gallery
 
-The following is computed automatically by rendering the individual tests.
+The following examples are obtained by rendering the individual tests.
+
+![](colored-places/ref/1.png)
+![](connect-places-with-transitions/ref/1.png)
+![](label-placement/ref/1.png)
+![](relative-positioning/ref/1.png)
+![](transitions/ref/1.png)
+![](two-tokens/ref/1.png)
+
