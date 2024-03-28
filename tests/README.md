@@ -12,6 +12,7 @@ The following examples are obtained by rendering the individual tests.
 
 ![](colored-places/ref/1.png)
 ![](connect-places-with-transitions/ref/1.png)
+![](four-seasons/ref/1.png)
 ![](label-placement/ref/1.png)
 ![](relative-positioning/ref/1.png)
 ![](transitions/ref/1.png)
