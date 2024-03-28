@@ -1,7 +1,7 @@
 #import "@preview/cetz:0.2.2" as cetz: draw
 #import "@preview/fletcher:0.4.2" as fletcher: node, edge, shapes
 
-#let _label(label, anchor: "north", padding: 0.5em, name: "node") = {
+#let _label(label, anchor: "north", padding: 0.5em, name: "node", ..args) = {
   let opposite-anchor = (
     "north-west": "south-east",
     "north": "south",
@@ -14,7 +14,7 @@
     "south-east": "north-west",
   ).at(anchor)
   
-  draw.content((name: name, anchor: anchor), label, anchor: opposite-anchor, padding: padding)
+  draw.content((name: name, anchor: anchor), label, anchor: opposite-anchor, padding: padding, ..args)
 }
 
 #let p(pos, label, tokens: 0, label-args: (), ..args) = {
