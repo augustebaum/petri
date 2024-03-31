@@ -10,13 +10,13 @@ Many of the tests are inspired by prior work in TikZ, including:
 
 The following examples are obtained by rendering the individual tests.
 
-![](colored-places/ref/1.png)
-![](connect-places-with-transitions/ref/1.png)
-![](four-seasons/ref/1.png)
-![](label-placement/ref/1.png)
-![](large-example/ref/1.png)
-![](relative-positioning/ref/1.png)
-![](transitions/ref/1.png)
-![](two-concurrent-processes/ref/1.png)
-![](two-tokens/ref/1.png)
+![](fletcher/colored-places/ref/1.png)
+![](fletcher/connect-places-with-transitions/ref/1.png)
+![](fletcher/four-seasons/ref/1.png)
+![](fletcher/label-placement/ref/1.png)
+![](fletcher/large-example/ref/1.png)
+![](fletcher/relative-positioning/ref/1.png)
+![](fletcher/transitions/ref/1.png)
+![](fletcher/two-concurrent-processes/ref/1.png)
+![](fletcher/two-tokens/ref/1.png)
 
