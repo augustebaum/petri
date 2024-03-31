@@ -1,6 +1,9 @@
 #import "/src/lib.typ": *
 #set page(width: auto, height: auto, margin: 1cm)
 
+#import "@preview/cetz:0.2.2" as cetz
+#import "@preview/fletcher:0.4.2" as fletcher: edge
+
 // The example is taken from https://tikz.dev/library-petri#sec-64.4
 
 #{

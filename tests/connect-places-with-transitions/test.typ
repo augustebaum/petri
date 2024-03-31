@@ -1,6 +1,8 @@
 #import "/src/lib.typ": *
 #set page(width: auto, height: auto, margin: 1cm)
 
+#import "@preview/fletcher:0.4.2" as fletcher: edge
+
 /// % Place 1
 /// \node[place,
 /// 	fill=teal!25,

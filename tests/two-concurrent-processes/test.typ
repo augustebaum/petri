@@ -1,6 +1,8 @@
 #import "/src/lib.typ": *
 #set page(width: auto, height: auto, margin: 1cm)
 
+#import "@preview/fletcher:0.4.2" as fletcher: edge
+
 /// 	node distance=2cm,
 /// 	on grid,
 /// 	every transition/.style={fill=black,minimum width=.1cm, minimum height=0.9cm},
